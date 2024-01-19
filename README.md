@@ -1,6 +1,8 @@
 # Maquette-graphique---Site-tatouage
 Création d'une maquette graphique et d'un wireframe comme exercice sur l'application Figma
 
+Lien direct vers la maquette interactive : https://www.figma.com/file/8TusJKhdNb7ReD383lPHXG/Wireframe-site-taouage?type=design&mode=design&t=cECUXpgc7EKJBeOQ-1
+
 CONCEPTION WIREFRAME & MAQUETTE GRAPHIQUE : Maquetter la page d'accueil d'un client
 
 * J'ai choisi de partir sur un wireframe et une maquette graphique en me basant sur des ressources que j'ai pu trouver sur des sites de tendances 
